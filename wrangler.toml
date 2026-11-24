@@ -1,0 +1,8 @@
+
+name = "zonk-world"
+main = "worker.js"
+compatibility_date = "2026-11-24"
+
+[assets]
+directory = "./"
+binding = "ASSETS"
